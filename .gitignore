@@ -1,0 +1,5 @@
+node_modules
+.vsix
+.DS_Store
+midnightdrift-vscode-0.3.0.vsix
+*.vsix

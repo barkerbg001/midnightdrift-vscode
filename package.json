@@ -1,0 +1,56 @@
+{
+  "name": "midnightdrift-vscode",
+  "displayName": "Midnight Drift",
+  "description": "A minimal, dark theme for VS Code with bold black tones and subtle navy and yellow accents.",
+  "version": "1.0.0",
+  "publisher": "Barkerbg001",
+  "icon": "images/logo.png",
+  "author": {
+    "name": "Barkerbg001",
+    "email": "Barkerbg001+vscode@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Barkerbg001/Ruby-Sea"
+  },
+  "bugs": {
+    "url": "https://github.com/Barkerbg001/Ruby-Sea/issues",
+    "email": "Barkerbg001+vscode@gmail.com"
+  },
+  "homepage": "https://github.com/Barkerbg001/Ruby-Sea/blob/master/README.md",
+  "galleryBanner": {
+    "color": "#0e1b2a",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.18.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "Themes",
+    "Dark Theme",
+    "color-theme",
+    "Midnight Drift"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Midnight Drift",
+        "uiTheme": "vs-dark",
+        "path": "./themes/midnightdrift-color-theme.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "@babel/core": "^7.24.9",
+    "@babel/eslint-parser": "^7.25.0",
+    "@upstatement/eslint-config": "^2.0.0",
+    "@upstatement/prettier-config": "^1.1.0",
+    "eslint": "^8.57.0",
+    "eslint-config-prettier": "^8.10.0",
+    "prettier": "^2.8.8",
+    "vsce": "^2.15.0"
+  }
+}
