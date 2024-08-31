@@ -36,27 +36,22 @@
 
 |                               Color                                | Usage                                           |
 | :----------------------------------------------------------------: | ----------------------------------------------- |
-| ![#ff4c5a](https://via.placeholder.com/10/ff4c5a.png?text=+) `#ff4c5a` | Keywords, constants, template literals          |
-| ![#ffd580](https://via.placeholder.com/10/ffd580.png?text=+) `#ffd580` | Functions, classes, object literal keys         |
-| ![#ff6b57](https://via.placeholder.com/10/ff6b57.png?text=+) `#ff6b57` | Constants, operators                            |
-| ![#62c6ff](https://via.placeholder.com/10/62c6ff.png?text=+) `#62c6ff` | Strings, markdown headings                      |
-| ![#3da5f6](https://via.placeholder.com/10/3da5f6.png?text=+) `#3da5f6` | Special keywords, classes, markdown code blocks |
-| ![#a2aabc](https://via.placeholder.com/10/a2aabc.png?text=+) `#a2aabc` | Variables, property names, tags                 |
+| ![#ffd700](https://via.placeholder.com/10/ffd700.png?text=+) `#ffd700` | Keywords, functions, special keywords           |
+| ![#ffffff](https://via.placeholder.com/10/ffffff.png?text=+) `#ffffff` | Variables, property names, strings              |
+| ![#ff6347](https://via.placeholder.com/10/ff6347.png?text=+) `#ff6347` | Errors, warnings, deletions                     |
+| ![#001f3f](https://via.placeholder.com/10/001f3f.png?text=+) `#001f3f` | Highlight background, selection                 |
 
 ### UI Colors
 
 |                               Color                                | Usage                                      |
 | :----------------------------------------------------------------: | ------------------------------------------ |
-| ![#0e1b2a](https://via.placeholder.com/10/0e1b2a.png?text=+) `#0e1b2a` | Workbench background                       |
-| ![#122236](https://via.placeholder.com/10/122236.png?text=+) `#122236` | Editor background                          |
-| ![#214b78](https://via.placeholder.com/10/214b78.png?text=+) `#214b78` | Highlight, widgets, panels                 |
-| ![#4b6691](https://via.placeholder.com/10/4b6691.png?text=+) `#4b6691` | Dividers, subtle UI elements               |
-| ![#6592b3](https://via.placeholder.com/10/6592b3.png?text=+) `#6592b3` | Status bar text, buttons, etc              |
-| ![#c5d3e0](https://via.placeholder.com/10/c5d3e0.png?text=+) `#c5d3e0` | Active text, anything that should be white |
-| ![#ff4c5a](https://via.placeholder.com/10/ff4c5a.png?text=+) `#ff4c5a` | Accent, list tree titles, badges, etc      |
-| ![#62c6ff](https://via.placeholder.com/10/62c6ff.png?text=+) `#62c6ff` | Addition highlights                        |
-| ![#ff2d3b](https://via.placeholder.com/10/ff2d3b.png?text=+) `#ff2d3b` | Deletion highlights, errors, warnings      |
-| ![#3da5f6](https://via.placeholder.com/10/3da5f6.png?text=+) `#3da5f6` | Modified highlights                        |
+| ![#000000](https://via.placeholder.com/10/000000.png?text=+) `#000000` | Workbench and editor background            |
+| ![#1a1a2e](https://via.placeholder.com/10/1a1a2e.png?text=+) `#1a1a2e` | Side bar, panels, hover highlights         |
+| ![#ffffff](https://via.placeholder.com/10/ffffff.png?text=+) `#ffffff` | Active text, UI elements that need contrast |
+| ![#ffd700](https://via.placeholder.com/10/ffd700.png?text=+) `#ffd700` | Accent color, buttons, badges, active borders |
+| ![#001f3f](https://via.placeholder.com/10/001f3f.png?text=+) `#001f3f` | Drop shadows, borders, subtle elements     |
+"""
+      |
 
 ## Theming Reference
 
