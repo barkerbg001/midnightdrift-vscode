@@ -50,8 +50,7 @@
 | ![#ffffff](https://via.placeholder.com/10/ffffff.png?text=+) `#ffffff` | Active text, UI elements that need contrast |
 | ![#ffd700](https://via.placeholder.com/10/ffd700.png?text=+) `#ffd700` | Accent color, buttons, badges, active borders |
 | ![#001f3f](https://via.placeholder.com/10/001f3f.png?text=+) `#001f3f` | Drop shadows, borders, subtle elements     |
-"""
-      |
+
 
 ## Theming Reference
 
