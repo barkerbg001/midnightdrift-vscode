@@ -5,7 +5,7 @@
   Midnight Drift Theme for VS Code
 </h1>
 <p align="center">
-  A minimal, dark theme for VS Code with vibrant red and blue accents.
+  A minimal, dark theme for VS Code with bold black tones and subtle navy and yellow accents.
 </p>
 
 <p align="center">
